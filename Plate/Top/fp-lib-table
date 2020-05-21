@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Custom_Footprint)(type KiCad)(uri /home/azami/Projects/mi-ne_v3/Custom_Footprint.pretty)(options "")(descr ""))
+  (lib (name MX_Only-modded)(type KiCad)(uri /home/azami/Projects/mi-ne_v3/MX_Only-modded.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri /home/azami/Projects/mi-ne_v3/random-keyboard-parts.pretty)(options "")(descr ""))
+)
